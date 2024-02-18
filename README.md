@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm onur kaan hazer</h1>
 <h3 align="center">Yazılım alanında kendini geliştirmeye çalışan bir öğrenci</h3>
 
-- 🔭 I’m currently working on **banka uygulaması**
+- 🔭 I’m currently working on **A banking application with a database.**
 
 - 🌱 I’m currently learning **mongodb,python**
 
 - 📫 How to reach me **onurkaanhazer@gmail.com**
 
-- ⚡ Fun fact **kitap okumak , spor yapmak ,oyun oynamak ve yazılım öğrenmek hoşuma gidiyor.**
+- ⚡ Fun fact **I enjoy reading books, doing sports, playing games, and learning software.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
